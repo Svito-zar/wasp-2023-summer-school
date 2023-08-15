@@ -15,6 +15,9 @@ https://dood.al/pinktrombone/
 
 ## Instructions to run multispeaker synthesis
 
+### Either install locally using the instructions below or simply use [this colab notebook.](https://colab.research.google.com/drive/12mdEujBj7Wj0b0SaxW83tS-POgifDKBE?usp=sharing)
+
+
 1. Install miniconda (or any other environment management that you prefer)
 ```
 https://docs.conda.io/en/main/miniconda.htm
