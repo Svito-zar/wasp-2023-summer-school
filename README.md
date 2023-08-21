@@ -26,7 +26,7 @@ The information below is derived from the original agenda [here](https://interna
 
 ## Submission
 Send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com` with the following:
-- Your team ID
+- Your team ID or team name
 - A `.zip` of `.fbx` files
 - A `.zip` of `.wav` files
 - The scene you wish to use (Egypt, Village, or Island)
