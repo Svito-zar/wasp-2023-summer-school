@@ -14,10 +14,10 @@ In the assignment you will be dealing with various systems. The primary goal is 
 The information below is derived from the original agenda [here](https://internal.wasp-sweden.org/event/wasp-summer-school-synthesis-of-human-communication-2023/). It will likely not be updated in case of any changes, but you will be notified on Slack (in the `general` channel for now).
 
 - Monday 15:30 - Presentation of assignment
-- Tuesday 14:00 - 15:00 - Work on [text generation tutorial](https://github.com/Svito-zar/wasp-2023-summer-school/tree/main/subsystem1_text-generation)
-- Tuesday 15:00 - 16:00 - Work on [text to speech tutorial](https://github.com/Svito-zar/wasp-2023-summer-school/tree/main/subsystem2_text-to-speech)
+- Tuesday 14:00 - 16:00 - Work on [text generation tutorial](https://github.com/Svito-zar/wasp-2023-summer-school/tree/main/subsystem1_text-generation)
+- Wednesday 10:00 - 12:00 - Work on [text to speech tutorial](https://github.com/Svito-zar/wasp-2023-summer-school/tree/main/subsystem2_text-to-speech)
 - Wednesday 14:20 - 16:00 - Work on [gesture generation tutorial](https://github.com/Svito-zar/wasp-2023-summer-school/tree/main/subsystem3_gesture-generation)
-- Wednesday 16:00 - 17:00 - Work on the tutorials / final assignment
+- Wednesday 16:00 - 17:00 - Work on the tutorials
 - Thursday 09:00 - 12:00 - Work on final assignment
 - **Thursday 12:00 - Submission deadline**
 - Friday 09:00 - 12:00 - Demo of your submissions in the 3D dome
