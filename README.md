@@ -33,6 +33,8 @@ Send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com` with the followin
 
 The `.fbx` and `.wav` files should be named in ascending order starting from 0 in the order they should be played back. Each file should also be prepended by a letter `a`, `b`, `c` or `d` that denotes the speaker. Each speaker corresponds to an *avatar*.
 
+*TODO:* Add images of avatars that `a`, `b`, `c`, `d` can correspond to.
+
 Example:
 - Team #1
 - Island
