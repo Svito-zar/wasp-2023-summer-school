@@ -22,35 +22,56 @@ The information below is derived from the original agenda [here](https://interna
 - **Thursday 12:00 - Submission deadline**
 - Friday 09:00 - 12:00 - Demo of your submissions in the 3D dome
 
+## Assignment
+The goal of the assignment is for you to be creative and tell your own story by using the tools you interacted with during the tutorial sessions. The context for your story is that it is *a submission for a popular talent show*, but do not feel overly constrained by the theme; use it mainly for inspiration.
 
+Most probably, you will follow this process:
+1. You use LLMs to generate a script for your story
+2. You use Text2Speech to generate audio for the script
+3. You use Speech2Gestures to generate animations
+4. You iterate on the above steps
+5. When satisfied, you submit to us
 
-## Submission
-Send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com` with the following:
-- Your team ID or team name
-- A `.zip` of `.fbx` files
-- A `.zip` of `.wav` files
-- The scene you wish to use (Egypt, Village, or Island)
+For the audio files, you are free to use any AI generated voice or even your own voice. You can stich multiple audio files or add silence if you wish to control pacing. Please make sure that you re-generate your animations when making changes.
 
-The `.fbx` and `.wav` files should be named in ascending order starting from 0 in the order they should be played back. Each file should also be prepended by a letter `a`, `b`, `c` or `d` that denotes the speaker. Each speaker corresponds to an *avatar*.
+When you send us your submission, we will put together a video sequence showcasing what you created. We will put a brief intro / outro at the beginning / end of your story, similar to how we did with the white avatars during the Assignment Demo. (*TODO: Upload the demo and presentation after day is over*)
 
-*TODO:* Add images of avatars that `a`, `b`, `c`, `d` can correspond to.
+### Submission
+Your submission should be **2-5 minutes** long and be compose of the following files:
+- a `.zip` of `.fbx` files
+- a `.zip` of `.wav` files
+- a `.txt` file
 
-Example:
-- Team #1
-- Island
+The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `a`, `b`, `c` or `d` to each file to encode a speaker ID. The speaker ID will corresponds to an *avatar* of your choice. *You must have at least 1 character in your story.*
+
+<p align="center">
+  <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/avatars.png" alt="The 4 avatars.">
+  <br>
+  <i>The 4 avatars</i>
+</p>
+
+*Example:*
 - fbx.zip
-    - a0.fbx
-    - b1.fbx
-    - b2.fbx
-    - c3.fbx
-    - a4.fbx
-    - d5.fbx
+    - 0a.fbx
+    - 1c.fbx
+    - 2c.fbx
+    - 3b.fbx
+    - 4c.fbx
+    - 5d.fbx
 - wav.zip
-    - a0.wav
-    - b1.wav
-    - b2.wav
-    - c3.wav
-    - a4.wav
-    - d5.wav
+    - 0a.wav
+    - 1c.wav
+    - 2c.wav
+    - 3b.wav
+    - 4c.wav
+    - 5d.wav
 
-We will take your files and put together a video clip similar to the one shown during the Monday presentation. The final composited video of all team submissions will be played in the Visualisation Center's 3D dome.
+The `.txt` file must contain the following information:
+- World (Egypt, Village, or Island)
+- Team name / ID
+- Avatar for character `a`
+- Avatar for character `b` (if applicable)
+- Avatar for character `c` (if applicable)
+- Avatar for character `d` (if applicable)
+
+To submit, send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com`.
