@@ -19,7 +19,7 @@ The information below is derived from the original agenda [here](https://interna
 - Wednesday 14:20 - 16:00 - Work on [gesture generation tutorial](https://github.com/Svito-zar/wasp-2023-summer-school/tree/main/subsystem3_gesture-generation)
 - Wednesday 16:00 - 17:00 - Work on the tutorials / final assignment
 - Thursday 09:00 - 12:00 - Work on final assignment
-- **Thursday 12:00 - Send us your submission (more below)**
+- **Thursday 12:00 - Submission deadline**
 - Friday 09:00 - 12:00 - Demo of your submissions in the 3D dome
 
 
@@ -34,14 +34,16 @@ Send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com` with the followin
 The `.fbx` and `.wav` files should be named in ascending order starting from 0 in the order they should be played back. Each file should also be prepended by a letter `a`, `b`, `c` or `d` that denotes the speaker. Each speaker corresponds to an *avatar*.
 
 Example:
-- fbx
+- Team #1
+- Island
+- fbx.zip
     - a0.fbx
     - b1.fbx
     - b2.fbx
     - c3.fbx
     - a4.fbx
     - d5.fbx
-- wav
+- wav.zip
     - a0.wav
     - b1.wav
     - b2.wav
