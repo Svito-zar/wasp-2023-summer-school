@@ -27,9 +27,15 @@ The information below is derived from the original agenda [here](https://interna
 - Friday 09:00 - 12:00 - Demo of your submissions in the 3D dome
 
 ## Assignment
-The goal of the assignment is for you to be creative and tell your own story by using the tools you interacted with during the tutorial sessions. The context for your story is that it is *a submission for a popular talent show*, but do not feel overly constrained by the theme; use it mainly for inspiration.
+The goal of the student assignment is for you to be creative and tell your own story by using the tools you interacted with during the tutorial sessions. Last year, the students completed a similar assignment, in which they created stories in a "free-for-all" theme. You can view the result of their submissions online:
+- [Team 1 submission](https://www.youtube.com/watch?v=IyaEcUJp6G8)
+- [Team 2 submission](https://www.youtube.com/watch?v=OJMNvtoPsfk)
+- [Team 3 submission](https://www.youtube.com/watch?v=3mwK3OCXH9k)
+- [Team 4 submission](https://www.youtube.com/watch?v=h8z85fxWz10)
 
-Most probably, you will follow this process:
+This year we are changing the theme to "participation in a popular talent show". The stories that you craft and submit are encouraged to fit into the "talent show" theme, but do not feel overly constrained by it; use it primarily for inspiration.
+
+You can expect to follow this process when completing the assignment:
 1. You use LLMs to generate a script for your story
 2. You use Text2Speech to generate audio for the script
 3. You use Speech2Gestures to generate animations
@@ -40,7 +46,7 @@ For the audio files, you are free to use any AI generated voice or even your own
 
 When you send us your submission, we will put together a video sequence showcasing what you created. We will put a brief intro / outro at the beginning / end of your story, similar to how we did with the white avatars during the Assignment Demo. (*TODO: Upload the demo and presentation after day is over*)
 
-### Submission
+### Submission instructions
 To submit, send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com`.
 
 Your submission should be **2-5 minutes** long and be composed of the following files:
