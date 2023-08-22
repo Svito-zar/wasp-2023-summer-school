@@ -69,8 +69,20 @@ The `.fbx` and `.wav` files should be named in ascending order, starting from 0,
     - 5D.wav
 
 The `.txt` file should contain the following information:
+- Team name or ID
 - World
-- Team name / ID
+
+*Example:*
+- Jackal.txt
+    - Team "Jackal"
+    - World "Tropical island"
+
+We have the following teams:
+1. Algorithmic Amigos
+2. VR WASP Wizards
+3. Artificial Four
+4. Quebec
+5. Lucasfilm Ltd TM
 
 We offer 5 worlds to choose from:
 
