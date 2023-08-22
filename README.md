@@ -37,12 +37,12 @@ For the audio files, you are free to use any AI generated voice or even your own
 When you send us your submission, we will put together a video sequence showcasing what you created. We will put a brief intro / outro at the beginning / end of your story, similar to how we did with the white avatars during the Assignment Demo. (*TODO: Upload the demo and presentation after day is over*)
 
 ### Submission
-Your submission should be **2-5 minutes** long and be compose of the following files:
+Your submission should be **2-5 minutes** long and be composed of the following files:
 - a `.zip` of `.fbx` files
 - a `.zip` of `.wav` files
 - a `.txt` file
 
-The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `a`, `b`, `c` or `d` to each file to encode a speaker ID. The speaker ID will corresponds to an *avatar* of your choice. *You must have at least 1 character in your story.*
+The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `a`, `b`, `c` or `d` to each file to encode a speaker ID. The speaker ID will correspond to an *avatar* of your choice. *You must have at least 1 speaker in your story.* The '.fbx' files are extracted using the gesture generation system.
 
 <p align="center">
   <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/avatars.png" alt="The 4 avatars.">
@@ -69,9 +69,9 @@ The `.fbx` and `.wav` files should be named in ascending order, starting from 0,
 The `.txt` file must contain the following information:
 - World (Egypt, Village, or Island)
 - Team name / ID
-- Avatar for character `a`
-- Avatar for character `b` (if applicable)
-- Avatar for character `c` (if applicable)
-- Avatar for character `d` (if applicable)
+- Avatar name for speaker `a`
+- Avatar name for speaker `b` (if applicable)
+- Avatar name for speaker `c` (if applicable)
+- Avatar name for speaker `d` (if applicable)
 
 To submit, send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com`.
