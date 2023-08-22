@@ -42,13 +42,18 @@ Your submission should be **2-5 minutes** long and be composed of the following 
 - a `.zip` of `.wav` files
 - a `.txt` file
 
-The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `a`, `b`, `c` or `d` to each file to encode a speaker ID. The speaker ID will correspond to an *avatar* of your choice. *You must have at least 1 speaker in your story.* The '.fbx' files are extracted using the gesture generation system.
+The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `a`, `b`, `c` or `d` to each file to let us know which avatar you wish to use for the animation. (The avatars are shown below.) The '.fbx' files are extracted using the gesture generation system.
 
 <p align="center">
   <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/avatars.png" alt="The 4 avatars.">
   <br>
   <i>The 4 avatars</i>
 </p>
+
+- 'a' - Majken
+- 'b' - Leffe
+- 'c' - Lea
+- 'd' - Harold
 
 *Example:*
 - fbx.zip
