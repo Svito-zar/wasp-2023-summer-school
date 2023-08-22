@@ -37,6 +37,8 @@ For the audio files, you are free to use any AI generated voice or even your own
 When you send us your submission, we will put together a video sequence showcasing what you created. We will put a brief intro / outro at the beginning / end of your story, similar to how we did with the white avatars during the Assignment Demo. (*TODO: Upload the demo and presentation after day is over*)
 
 ### Submission
+To submit, send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com`.
+
 Your submission should be **2-5 minutes** long and be composed of the following files:
 - a `.zip` of `.fbx` files
 - a `.zip` of `.wav` files
@@ -66,8 +68,35 @@ The `.fbx` and `.wav` files should be named in ascending order, starting from 0,
     - 4C.wav
     - 5D.wav
 
-The `.txt` file must contain the following information:
-- World (Egypt, Village, or Island)
+The `.txt` file should contain the following information:
+- World
 - Team name / ID
 
-To submit, send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com`.
+We offer 5 worlds to choose from:
+
+**Egypt**
+<p align="center">
+  <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/Images/Egypt2.png" alt="Egtpy.">
+</p>
+
+**Asian village**
+<p align="center">
+  <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/Images/AsianVillage2.png" alt="Asian village.">
+</p>
+
+**Tropical island**
+<p align="center">
+  <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/Images/Tropical2.png" alt="Tropical island">
+</p>
+
+**Venice**
+<p align="center">
+  <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/Images/Venice2.png" alt="Venice.">
+</p>
+
+**ForestLevel**
+<p align="center">
+  <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/Images/ForestLevel2.png" alt="Forest level">
+</p>
+
+You can find more examples in the [images](https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/Images/) folder.
