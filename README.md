@@ -74,9 +74,5 @@ The `.fbx` and `.wav` files should be named in ascending order, starting from 0,
 The `.txt` file must contain the following information:
 - World (Egypt, Village, or Island)
 - Team name / ID
-- Avatar name for speaker `a`
-- Avatar name for speaker `b` (if applicable)
-- Avatar name for speaker `c` (if applicable)
-- Avatar name for speaker `d` (if applicable)
 
 To submit, send an email to `tnikolov@hotmail.com` OR `tsakovm@gmail.com`.
