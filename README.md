@@ -42,34 +42,29 @@ Your submission should be **2-5 minutes** long and be composed of the following 
 - a `.zip` of `.wav` files
 - a `.txt` file
 
-The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `a`, `b`, `c` or `d` to each file to let us know which avatar you wish to use for the animation. (The avatars are shown below.) The '.fbx' files are extracted using the gesture generation system.
+The `.fbx` and `.wav` files should be named in ascending order, starting from 0, in the order that they should be played back. Append `A`, `B`, `C`, `D` or `E` to each file to indicate which avatar you wish to use for the animation. The `.fbx` files are extracted using the gesture generation system.
 
 <p align="center">
-  <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/avatars.png" alt="The 4 avatars.">
+  <img src="https://github.com/Svito-zar/wasp-2023-summer-school/blob/main/avatars.png" alt="The 5 avatars to choose from.">
   <br>
-  <i>The 4 avatars</i>
+  <i>The 5 avatars to choose from.</i>
 </p>
-
-- 'a' - Majken
-- 'b' - Leffe
-- 'c' - Lea
-- 'd' - Harold
 
 *Example:*
 - fbx.zip
-    - 0a.fbx
-    - 1c.fbx
-    - 2c.fbx
-    - 3b.fbx
-    - 4c.fbx
-    - 5d.fbx
+    - 0A.fbx
+    - 1C.fbx
+    - 2C.fbx
+    - 3B.fbx
+    - 4C.fbx
+    - 5D.fbx
 - wav.zip
-    - 0a.wav
-    - 1c.wav
-    - 2c.wav
-    - 3b.wav
-    - 4c.wav
-    - 5d.wav
+    - 0A.wav
+    - 1C.wav
+    - 2C.wav
+    - 3B.wav
+    - 4C.wav
+    - 5D.wav
 
 The `.txt` file must contain the following information:
 - World (Egypt, Village, or Island)
