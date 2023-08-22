@@ -8,6 +8,10 @@ This repository hosts the full pipeline code for the WASP summer school 2023 gro
 - Synthesizing speech from text : [`./subsystem2_text-to-speech/`](https://github.com/Svito-zar/wasp-2023-summer-school/tree/main/subsystem2_text-to-speech)
 - Generating gesture animations from audio : [`./subsystem3_gesture-generation/`](https://github.com/Svito-zar/wasp-2023-summer-school/tree/main/subsystem3_gesture-generation)
 
+The Monday student assignment presentation is in file `student-assignment.pptx`.
+
+The demo video for the student assignment shown on Monday can be found [on YouTube](https://www.youtube.com/watch?v=by40aaCbLpY).
+
 ## Agenda
 In the assignment you will be dealing with various systems. The primary goal is to first familiarize you with these systems, and then to use what you learned before making your final submissions.
 
