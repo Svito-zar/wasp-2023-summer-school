@@ -77,12 +77,12 @@ The `.txt` file should contain the following information:
     - Team "Jackal"
     - World "Tropical island"
 
-We have the following teams:
-1. Algorithmic Amigos
-2. VR WASP Wizards
-3. Artificial Four
-4. Quebec
-5. Lucasfilm Ltd TM
+We have the following teams this year:
+1. *Algorithmic Amigos*
+2. *VR WASP Wizards*
+3. *Artificial Four*
+4. *Quebec*
+5. *Lucasfilm Ltd TM*
 
 We offer 5 worlds to choose from:
 
